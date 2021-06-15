@@ -5,9 +5,6 @@
         margin-bottom: 20px;
         width: 100%;
     }
-}
-
-@media screen and (max-width: 420px) {
     #lezioni .row{
         display: flex;
         flex-direction: column;
@@ -16,9 +13,6 @@
         align-content: center;
         background-color: rgb(242, 242, 205);
     }
-}
-
-@media screen and (max-width: 420px) {
     #steps .row{
         display: flex;
         flex-direction: column;
@@ -27,9 +21,6 @@
         align-content: center;
         background-color: rgb(255, 255, 255);
     }
-}
-
-@media screen and (max-width: 420px) {
     #why .row{
         display: flex;
         flex-direction: column;
@@ -38,15 +29,9 @@
         align-content: center;
         background-color: rgb(242, 242, 205);
     }
-}
-
-@media screen and (max-width: 420px) {
     .row{
         width: auto;
     }
-}
-
-@media screen and (max-width: 420px) {
     #steps .row>.left, #steps .row>.central, #steps .row>.right{
         width: auto;
         margin-bottom: 20px;
